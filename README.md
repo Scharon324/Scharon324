@@ -25,6 +25,8 @@ Description soon.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+#
+
 ### 🌱 Projects
 
 #
@@ -33,7 +35,6 @@ Description soon.
 <br />
 
 #
-
 
 - 👋 Hi, I’m @Scharon324
 - 👀 I’m interested in ...
