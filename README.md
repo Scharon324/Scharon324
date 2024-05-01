@@ -25,10 +25,12 @@ Description soon.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
+### 🧰 Projects
 
-<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
+<img alt="GitHub" width="45px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
 <br />
+
+#
 
 - 👋 Hi, I’m @Scharon324
 - 👀 I’m interested in ...
