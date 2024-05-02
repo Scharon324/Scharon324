@@ -31,8 +31,17 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 
 #
 
+### UNDER Construcion Dino is helping.
 <img alt="GitHub" width="45px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
-<br />
+<br /> 
+
+👋 Hey there! I'm Andres, a passionate software engineer with a love for building innovative solutions and pushing the boundaries of technology. With a solid background in Java, C#, HTML, CSS, PHP, JavaScript, and SQL, I enjoy diving into diverse projects that challenge my skills and expand my knowledge.
+
+🚀 From designing home server setups to crafting dynamic learning systems, I thrive on turning ideas into reality through code. With a keen eye for detail and a knack for problem-solving, I'm committed to delivering high-quality software that meets and exceeds client expectations.
+
+💻 When I'm not coding, you can find me exploring new technologies, honing my programming skills, or diving into a good RPG. I believe in continuous learning and growth, and I'm always eager to collaborate on exciting projects and connect with fellow developers.
+
+🌟 Let's build something amazing together! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat tech. Cheers!
 
 #
 MORE STUFF COMING SOON - Currently Under Construction!
