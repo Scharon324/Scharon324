@@ -2,9 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andres+Ipits!;" />
 </h1>
 
-# 🖍 Andres Ipits
+## <img align="centre" alt="GitHub" width="60px" style="padding-right:20px;" src="https://files.svgcdn.io/vscode-icons/file-type-tamagui.svg" /> Andres Ipits 
+<br />
 
-**`Andres Ipits (Developer/Software Engineer)`**
+**`🖍 Andres Ipits (Developer/Software Engineer)`**
 
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/pollen-tree.svg" />
 <br />
@@ -18,6 +19,9 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/skill-icons/vscode-dark.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-csharp2.svg" />
+<img align="left" alt="DockerContainer" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-docker2.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
