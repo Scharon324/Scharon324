@@ -31,7 +31,7 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 
 #
 
-### UNDER Construcion Dino is helping above and below this Readme file.
+### UNDER Construcion Dino is helping above and below with this Readme file.
 <img alt="GitHub" width="45px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
 <br /> 
 
