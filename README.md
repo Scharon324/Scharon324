@@ -28,6 +28,7 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="VirtualMachine" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/virtual-10639770-8615231.png?f=webp&w=512" />
+<img align="left" alt="RaspberryPi" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-raspberrypi-3521665-2945109.png?f=webp&w=512" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
