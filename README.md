@@ -22,6 +22,7 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/skill-icons/vscode-dark.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-csharp2.svg" />
 <img align="left" alt="DockerContainer" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-docker2.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-mysql.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
