@@ -35,7 +35,7 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 <br />
 
 #
-
+MORE STUFF COMING SOON - Currently Under Construction!
 - 👋 Hi, I’m @Scharon324
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
