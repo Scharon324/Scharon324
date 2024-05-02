@@ -8,7 +8,7 @@
 
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/pollen-tree.svg" />
 <br />
-Description soon.
+Passionate and versatile software engineer with a solid foundation in Java, C#, HTML, CSS, PHP, JavaScript, and SQL. With a knack for understanding client needs and translating them into robust project specifications, I bring a strong analytical mindset and problem-solving skills to the table. Experienced in both backend and frontend development, I have a keen interest in designing and building applications that make a tangible impact. Fluent in English, Russian, and Estonian, I thrive on learning new technologies and constantly improving my craft. From managing home server setups to developing dynamic learning systems, my diverse project portfolio showcases my commitment to innovation and excellence in software engineering.
 
 ###
 
