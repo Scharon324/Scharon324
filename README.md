@@ -27,7 +27,8 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 
 #
 
-### 🌱 Projects
+### <img align="left" alt="Java" width="35px" style="padding-right:15px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp"/> Projects 
+<br /> 
 
 #
 
