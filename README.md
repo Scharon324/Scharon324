@@ -18,6 +18,7 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 ### <img align="left" alt="ToolBox" width="30px" style="padding-right:1px;" src="https://em-content.zobj.net/source/telegram/386/toolbox_1f9f0.webp"/> Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="BlueJ" width="30px" style="padding-right:10px;" src="https://github.com/Scharon324/icons/blob/9151107df0b8813604be367607e4624393954a6b/bluej.512x506.png"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/skill-icons/vscode-dark.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-csharp2.svg" />
