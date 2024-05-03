@@ -43,7 +43,7 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 <img alt="GitHub" width="45px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
 <br /> 
 
-👋 Hey there! I'm Andres, a passionate software engineer with a love for building innovative solutions and pushing the boundaries of technology. With a solid background in Java, C#, HTML, CSS, PHP, JavaScript, and SQL, I enjoy diving into diverse projects that challenge my skills and expand my knowledge.
+<img align="centre" alt="GitHub" width="60px" style="padding-right:20px;" src="https://c.tenor.com/XRTmy5DN1pYAAAAC/tenor.gif" /> Hey there! I'm Andres, a passionate software engineer with a love for building innovative solutions and pushing the boundaries of technology. With a solid background in Java, C#, HTML, CSS, PHP, JavaScript, and SQL, I enjoy diving into diverse projects that challenge my skills and expand my knowledge.
 
 🚀 From designing home server setups to crafting dynamic learning systems, I thrive on turning ideas into reality through code. With a keen eye for detail and a knack for problem-solving, I'm committed to delivering high-quality software that meets and exceeds client expectations.
 
