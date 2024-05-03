@@ -37,6 +37,14 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 ### <img align="left" alt="Flower" width="35px" style="padding-right:15px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp"/> Projects 
 <br /> 
 
+- 1 Electronic retail store system. (Link and repo coming soon)
+- 2 DLEAS – Dynamic Learning Accessing System. (Link and repo coming soon)
+- 3 Home Server/Lab. (Link and repo coming soon)
+- 4 More project to come ...
+- 5 More project to come ...
+- 6 More project to come ...
+- 7 More project to come ...
+
 #
 
 ### UNDER Construcion Dino is helping above and below with this Readme file.
