@@ -5,17 +5,17 @@
 ## <img align="centre" alt="GitHub" width="60px" style="padding-right:20px;" src="https://static.wikia.nocookie.net/tamagotchi/images/a/ab/Kuchipatchi_sprite_app1.png/revision/latest?cb=20140311014725" /> Andres Ipits 
 <br />
 
-**`🖍 Andres Ipits (Developer/Software Engineer)`**
+**`Andres Ipits (Developer/Software Engineer)`**
 
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/pollen-tree.svg" />
-<br />
+<br /> 
 Passionate and versatile software engineer with a solid foundation in Java, C#, HTML, CSS, PHP, JavaScript, and SQL. With a knack for understanding client needs and translating them into robust project specifications, I bring a strong analytical mindset and problem-solving skills to the table. Experienced in both backend and frontend development, I have a keen interest in designing and building applications that make a tangible impact. Fluent in English, Russian, and Estonian, I thrive on learning new technologies and constantly improving my craft. From managing home server setups to developing dynamic learning systems, my diverse project portfolio showcases my commitment to innovation and excellence in software engineering.
 
 ###
 
 ---
 
-### 🧰 Languages and Tools
+### <img align="left" alt="ToolBox" width="30px" style="padding-right:1px;" src="https://em-content.zobj.net/source/telegram/386/toolbox_1f9f0.webp"/> Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -34,13 +34,13 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 
 #
 
-### <img align="left" alt="Java" width="35px" style="padding-right:15px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp"/> Projects 
+### <img align="left" alt="Flower" width="35px" style="padding-right:15px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp"/> Projects 
 <br /> 
 
 #
 
 ### UNDER Construcion Dino is helping above and below with this Readme file.
-<img alt="GitHub" width="45px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
+<img alt="Dino" width="45px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
 <br /> 
 
 <img align="centre" alt="GitHub" width="60px" style="padding-right:20px;" src="https://c.tenor.com/XRTmy5DN1pYAAAAC/tenor.gif" /> Hey there! I'm Andres, a passionate software engineer with a love for building innovative solutions and pushing the boundaries of technology. With a solid background in Java, C#, HTML, CSS, PHP, JavaScript, and SQL, I enjoy diving into diverse projects that challenge my skills and expand my knowledge.
