@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andres+Ipits!;" />
 </h1>
 
-## <img align="centre" alt="GitHub" width="60px" style="padding-right:20px;" src="https://files.svgcdn.io/vscode-icons/file-type-tamagui.svg" /> Andres Ipits 
+## <img align="centre" alt="GitHub" width="60px" style="padding-right:20px;" src="https://static.wikia.nocookie.net/tamagotchi/images/a/ab/Kuchipatchi_sprite_app1.png/revision/latest?cb=20140311014725" /> Andres Ipits 
 <br />
 
 **`🖍 Andres Ipits (Developer/Software Engineer)`**
