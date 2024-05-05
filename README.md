@@ -38,7 +38,7 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
----
+##
 
 ### <img align="left" alt="Flower" width="35px" style="padding-right:15px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp"/> Projects 
 <br /> 
