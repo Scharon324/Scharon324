@@ -54,9 +54,15 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 - 7 More project to come ...
 
 #
-### See More Info by collapsing this windows.
+### UNDER Construcion Dino is helping above and below with this Readme file.
+
+<img alt="DinoRunning" width="900px" style="padding-right:15px;" src="https://raw.githubusercontent.com/Scharon324/icons/main/dino.gif"/> 
+<br />
+
+
+
 <details>
-<summary><h1> UNDER Construcion Dino is helping above and below with this Readme file. </h1></summary>
+<summary><h1> See More Info by clicking the collapse icon above. </h1></summary>
 <img alt="Dino" width="45px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
 <br /> 
 
