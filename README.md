@@ -20,6 +20,8 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="BlueJ" width="30px" style="padding-right:10px;" src="https://github.com/Scharon324/icons/blob/9151107df0b8813604be367607e4624393954a6b/bluej.512x506.png"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Xampp" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/xampp-icon-508x512-hsh5ht6u.png" />
+<img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/virtualbox-icon-512x512-e7r1ac9y.png" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/skill-icons/vscode-dark.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-csharp2.svg" />
 <img align="left" alt="DockerContainer" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-docker2.svg" />
@@ -29,11 +31,14 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="VirtualMachine" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/virtual-10639770-8615231.png?f=webp&w=512" />
+<img align="left" alt="Nagios" width="30px" style="padding-right:10px;" src="https://a.slack-edge.com/7f1a0/plugins/nagios/assets/service_512.png" />
+<img align="left" alt="Zabbix" width="30px" style="padding-right:10px;" src="https://www.fcconsultancy.co.uk/wp-content/uploads/2016/11/zabbix.png" />
+<img align="left" alt="AdGuard" width="30px" style="padding-right:10px;" src="https://pbs.twimg.com/profile_images/1334411116420722689/rPX4bNDm_400x400.jpg" />
 <img align="left" alt="RaspberryPi" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-raspberrypi-3521665-2945109.png?f=webp&w=512" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
+##
 
 ### <img align="left" alt="Flower" width="35px" style="padding-right:15px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp"/> Projects 
 <br /> 
@@ -42,13 +47,14 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 - 2 DLEAS – Dynamic Learning Accessing System. (Link and repo coming soon)
 - 3 Home Server/Lab. (Link and repo coming soon)
 - 4 My Portfolio Website (New Link Comign soon)
-- 5 More project to come ...
+- 5 AdGuard Home Project (Link and Instructions coming soon)
 - 6 More project to come ...
 - 7 More project to come ...
 
 #
-
-### UNDER Construcion Dino is helping above and below with this Readme file.
+### See More Info by collapsing this windows.
+<details>
+<summary><h1> UNDER Construcion Dino is helping above and below with this Readme file. </h1></summary>
 <img alt="Dino" width="45px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
 <br /> 
 
@@ -59,6 +65,8 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 💻 When I'm not coding, you can find me exploring new technologies, honing my programming skills, or diving into a good RPG. I believe in continuous learning and growth, and I'm always eager to collaborate on exciting projects and connect with fellow developers.
 
 🌟 Let's build something amazing together! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat tech. Cheers!
+
+
 
 #
 MORE STUFF COMING SOON - Currently Under Construction!
