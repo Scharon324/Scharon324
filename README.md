@@ -45,12 +45,12 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 ### <img align="left" alt="Flower" width="35px" style="padding-right:15px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp"/> Projects 
 <br /> 
 
-- 1 Electronic retail store system. (Link and repo coming soon)
-- 2 DLEAS – Dynamic Learning Accessing System. (Link and repo coming soon)
-- 3 Home Server/Lab. (Link and repo coming soon)
-- 4 My Portfolio Website (New Link Comign soon)
+- 1 Electronic retail store system. (GitHub Link and repo coming soon)
+- 2 DLEAS – Dynamic Learning Accessing System. (GitHub Link and repo coming soon)
+- 3 Home Server/Lab. (Readme.md Link instructions coming soon)
+- 4 My Portfolio [Website](https://scharon324.github.io/mywebsite2/) (Still in Development) - [GitHub Page](https://github.com/Scharon324/mywebsite2)
 - 5 AdGuard Home Project (Link and Instructions coming soon)
-- 6 More project to come ...
+- 6 AI Self Hosted Server (Currently Reamde.MD work in progress) - [GitHub Page](https://github.com/Scharon324/AISelfHostedServer)
 - 7 More project to come ...
 
 #
