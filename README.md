@@ -62,7 +62,7 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 
 
 <details>
-<summary><h1> See More Info by clicking the collapse icon above. </h1></summary>
+<summary><h1> Click here to see More Info by clicking. </h1></summary>
 <img alt="Dino" width="45px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
 <br /> 
 
