@@ -20,7 +20,7 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="BlueJ" width="30px" style="padding-right:10px;" src="https://github.com/Scharon324/icons/blob/9151107df0b8813604be367607e4624393954a6b/bluej.512x506.png"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Xampp" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/xampp-icon-508x512-hsh5ht6u.png" />
+<img align="left" alt="Xampp" width="30px" style="padding-right:10px;" src="https://github.com/Scharon324/icons/blob/main/xampp-icon-508x512-hsh5ht6u.png" />
 <img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/virtualbox-icon-512x512-e7r1ac9y.png" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/skill-icons/vscode-dark.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-csharp2.svg" />
