@@ -7,7 +7,7 @@
 
 **`Andres Ipits (Developer/Software Engineer)`**
 
-<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/pollen-tree.svg" />
+<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Scharon324/icons/bddefe94becd3a640db2e61095ced668e170f3fc/pollen-tree.svg" />
 <br /> 
 Passionate and versatile software engineer with a solid foundation in Java, C#, HTML, CSS, PHP, JavaScript, and SQL. With a knack for understanding client needs and translating them into robust project specifications, I bring a strong analytical mindset and problem-solving skills to the table. Experienced in both backend and frontend development, I have a keen interest in designing and building applications that make a tangible impact. Fluent in English, Russian, and Estonian, I thrive on learning new technologies and constantly improving my craft. From managing home server setups to developing dynamic learning systems, my diverse project portfolio showcases my commitment to innovation and excellence in software engineering.
 
@@ -18,10 +18,10 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 ### <img align="left" alt="ToolBox" width="30px" style="padding-right:1px;" src="https://em-content.zobj.net/source/telegram/386/toolbox_1f9f0.webp"/> Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="BlueJ" width="30px" style="padding-right:10px;" src="https://github.com/Scharon324/icons/blob/9151107df0b8813604be367607e4624393954a6b/bluej.512x506.png"/>
+<img align="left" alt="BlueJ" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Scharon324/icons/refs/heads/main/bluej.512x506.png"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Xampp" width="30px" style="padding-right:10px;" src="https://github.com/Scharon324/icons/blob/main/xampp-icon-508x512-hsh5ht6u.png" />
-<img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/virtualbox-icon-512x512-e7r1ac9y.png" />
+<img align="left" alt="Xampp" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Scharon324/icons/refs/heads/main/xampp-icon-508x512-hsh5ht6u.png" />
+<img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Scharon324/icons/refs/heads/main/virtualbox-icon-512x512-e7r1ac9y.png" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/skill-icons/vscode-dark.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-csharp2.svg" />
 <img align="left" alt="DockerContainer" width="30px" style="padding-right:10px;" src="https://files.svgcdn.io/vscode-icons/file-type-docker2.svg" />
@@ -32,8 +32,8 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="VirtualMachine" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/virtual-10639770-8615231.png?f=webp&w=512" />
 <img align="left" alt="Nagios" width="30px" style="padding-right:10px;" src="https://a.slack-edge.com/7f1a0/plugins/nagios/assets/service_512.png" />
-<img align="left" alt="Zabbix" width="30px" style="padding-right:10px;" src="https://www.fcconsultancy.co.uk/wp-content/uploads/2016/11/zabbix.png" />
-<img align="left" alt="AdGuard" width="30px" style="padding-right:10px;" src="https://pbs.twimg.com/profile_images/1334411116420722689/rPX4bNDm_400x400.jpg" />
+<img align="left" alt="Zabbix" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Scharon324/icons/refs/heads/main/zabbix.png" />
+<img align="left" alt="AdGuard" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Scharon324/icons/refs/heads/main/rPX4bNDm_400x400.jpg" />
 <img align="left" alt="RaspberryPi" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-raspberrypi-3521665-2945109.png?f=webp&w=512" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
@@ -54,7 +54,7 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 - 7 More project to come ...
 
 #
-### UNDER Construcion Dino is helping above and below with this Readme file.
+### UNDER Construction Dino is helping above and below with this Readme file.
 
 <img alt="DinoRunning" width="900px" style="padding-right:15px;" src="https://raw.githubusercontent.com/Scharon324/icons/main/dino.gif"/> 
 <br />
