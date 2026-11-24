@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andres+Ipits!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Scharon324!;" />
 </h1>
 
-## <img align="centre" alt="GitHub" width="60px" style="padding-right:20px;" src="https://static.wikia.nocookie.net/tamagotchi/images/a/ab/Kuchipatchi_sprite_app1.png/revision/latest?cb=20140311014725" /> Andres Ipits 
+## <img align="centre" alt="GitHub" width="60px" style="padding-right:20px;" src="https://static.wikia.nocookie.net/tamagotchi/images/a/ab/Kuchipatchi_sprite_app1.png/revision/latest?cb=20140311014725" /> Scharon324 
 <br />
 
-**`Andres Ipits (Developer/Software Engineer)`**
+**`(Developer/Software Engineer)`**
 
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Scharon324/icons/bddefe94becd3a640db2e61095ced668e170f3fc/pollen-tree.svg" />
 <br /> 
@@ -45,48 +45,13 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 ### <img align="left" alt="Flower" width="35px" style="padding-right:15px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp"/> Projects 
 <br /> 
 
-- 1 Electronic retail store system. (GitHub Link and repo coming soon)
-- 2 DLEAS – Dynamic Learning Accessing System. (GitHub Link and repo coming soon)
+- 1 [Electronic retail store system.](https://github.com/Scharon324/LibraryTech)
+- 2 [DLEAS – Dynamic Learning Accessing System.](https://github.com/Scharon324/Project_DLEAS)
 - 3 Home Server/Lab. (Readme.md Link instructions coming soon)
-- 4 [My Portfolio Website](https://scharon324.github.io/mywebsite2/) (Still in Development) - [GitHub Page](https://github.com/Scharon324/mywebsite2)
-- 5 AdGuard Home Project - [GitHub Page](https://github.com/Scharon324/AdGuardHome)
+- 4 [My Portfolio Website](https://scharon324.github.io/mywebsite2/) (Still in Development).
+- 5 [AdGuard Home Project](https://github.com/Scharon324/AISelfHostedServer).
 - 6 AI Self Hosted Server (Currently work in progress) - [GitHub Page](https://github.com/Scharon324/AISelfHostedServer)
-- 7 More project to come ...
 
 #
-### UNDER Construction Dino is helping above and below with this Readme file.
-
-<img alt="DinoRunning" width="900px" style="padding-right:15px;" src="https://raw.githubusercontent.com/Scharon324/icons/main/dino.gif"/> 
+###
 <br />
-
-
-
-<details>
-<summary><h1> Click here to see More Info by clicking. </h1></summary>
-<img alt="Dino" width="45px" style="padding-right:10px;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.webp" />
-<br /> 
-
-<img align="centre" alt="GitHub" width="60px" style="padding-right:20px;" src="https://c.tenor.com/XRTmy5DN1pYAAAAC/tenor.gif" /> Hey there! I'm Andres, a passionate software engineer with a love for building innovative solutions and pushing the boundaries of technology. With a solid background in Java, C#, HTML, CSS, PHP, JavaScript, and SQL, I enjoy diving into diverse projects that challenge my skills and expand my knowledge.
-
-🚀 From designing home server setups to crafting dynamic learning systems, I thrive on turning ideas into reality through code. With a keen eye for detail and a knack for problem-solving, I'm committed to delivering high-quality software that meets and exceeds client expectations.
-
-💻 When I'm not coding, you can find me exploring new technologies, honing my programming skills, or diving into a good RPG. I believe in continuous learning and growth, and I'm always eager to collaborate on exciting projects and connect with fellow developers.
-
-🌟 Let's build something amazing together! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat tech. Cheers!
-
-
-
-#
-MORE STUFF COMING SOON - Currently Under Construction!
-- 👋 Hi, I’m @Scharon324
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Scharon324/Scharon324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
