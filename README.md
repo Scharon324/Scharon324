@@ -51,6 +51,9 @@ Passionate and versatile software engineer with a solid foundation in Java, C#, 
 - 4 [My Portfolio Website](https://scharon324.github.io/mywebsite2/) (Still in Development).
 - 5 [AdGuard Home Project](https://github.com/Scharon324/AISelfHostedServer).
 - 6 AI Self Hosted Server (Currently work in progress) - [GitHub Page](https://github.com/Scharon324/AISelfHostedServer)
+- 7 [Dungeon Adventure RPG.](https://github.com/Scharon324/se1314/tree/master/Games)
+- 8 [Guessing Game.](https://github.com/Scharon324/se1314/tree/master/Games)
+- 9 [Quiz Oracle Exam for Database.](https://github.com/Scharon324/se1314/tree/master/Games)
 
 #
 ###
